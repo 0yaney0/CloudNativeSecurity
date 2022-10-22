@@ -8,6 +8,7 @@
 
 1. [中国网络安全十大创新方向](https://github.com/0yaney0/CloudNativeSecurity/blob/main/Industry%20development/Innovation-.pdf)
 2. [ISC 2022 十年网安行业代表性案例](https://github.com/0yaney0/CloudNativeSecurity/blob/main/Industry%20development/ISC-2022anli.pdf)
+3. 云原生安全架构白皮书
 
 # 0x02 容器技术
 
